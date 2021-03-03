@@ -23,6 +23,11 @@ Here are some ideas to get you started:
 <a href="https://t.me/tea99">Telegram</a>
 </p>
 
+
+## Github Stats
+
+<a href="https://github.com/tea9"><img src="https://github-readme-stats.vercel.app/api?username=tea9&show_icons=true&count_private=true&hide_title=true&theme=default&hide_border=true"></a>
+
 ## Blog Posts
 
 Only the latest **3** articles are displayed here.
