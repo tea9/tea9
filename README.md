@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 
 
 ## Github Stats
-<a href="https://github.com/tea9"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=tea9&hide=HTML,Javascript&show_icons=true&count_private=true&hide_title=true&theme=default&hide_border=true'/></a>
+
 <a href="https://github.com/tea9"><img src="https://github-readme-stats.vercel.app/api?username=tea9&show_icons=true&count_private=true&hide_title=true&theme=default&hide_border=true"></a>
+<a href="https://github.com/tea9"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=tea9&hide=HTML,Javascript&show_icons=true&count_private=true&hide_title=true&theme=default&hide_border=true'/></a>
 <!--<a href="https://github.com/tea9"><img src='https://github-readme-stats.vercel.app/api?username=tea9&show_icons=true&icon_color=FFCC33&title_color=FFCC33&hide_title=true'/></a>-->
 
 ## Blog Posts
