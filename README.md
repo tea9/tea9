@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### 😆 主页浏览量
 
-![](https://count.getloli.com/get/@xiaoyou66.github.readme)
+![](https://count.getloli.com/get/@tea9.github.readme)
 <h3 align="center">👋 Hello! I'm Tea.</h3>
 
 ## Github Stats
