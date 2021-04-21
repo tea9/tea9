@@ -16,13 +16,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">👋 Hello! I'm Tea.</h3>
 
 <p align="center">
 <a href="http://tea9.xyz/">Blog</a>&nbsp;•&nbsp;
 <a href="https://t.me/tea99">Telegram</a>
 </p>
 
+### 😆 主页浏览量
+
+![](https://count.getloli.com/get/@xiaoyou66.github.readme)
+<h3 align="center">👋 Hello! I'm Tea.</h3>
 
 ## Github Stats
 
