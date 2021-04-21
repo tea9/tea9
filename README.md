@@ -41,3 +41,11 @@ Only the latest **3** articles are displayed here.
 <!--END_SECTION:posts-->
 
 **See more on [tea9.xyz](https://tea9.xyz/).**
+
+## About 
+* blog:https://tea9.xyz
+* wechat:tr1tea
+* email:tea90@qq.com
+* 知识星球：https://t.zsxq.com/7YJEEqj
+* twitter：https://twitter.com/tr1tea
+
