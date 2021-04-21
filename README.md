@@ -22,10 +22,12 @@ Here are some ideas to get you started:
 <a href="https://t.me/tea99">Telegram</a>
 </p>
 
+
+<h3 align="center">👋 Hello! I'm Tea.</h3>
+
 ### 😆 主页浏览量
 
 ![](https://count.getloli.com/get/@tea9.github.readme)
-<h3 align="center">👋 Hello! I'm Tea.</h3>
 
 ## Github Stats
 
