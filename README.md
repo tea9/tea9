@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 ![](https://count.getloli.com/get/@tea9.github.readme)
 
+<img src="http://www.chacuo.net/images/demo/1.png" style="border:1px solid #999" title="转换后的字符图">
+
 ## Github Stats
 
 <a href="https://github.com/tea9"><img src="https://github-readme-stats.vercel.app/api?username=tea9&show_icons=true&count_private=true&hide_title=true&theme=default&hide_border=true"></a>
