@@ -66,7 +66,7 @@ Only the latest **3** articles are displayed here.
 
 ## About 
 * blog:https://tea9.xyz
-* wechat(base64:dDFuYXRp
+* wechat (base64:dDFuYXRp
 * email:tea90@qq.com
 * 知识星球：https://t.zsxq.com/7YJEEqj
 * twitter：https://twitter.com/tr1tea
