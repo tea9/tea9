@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<a href="http://tea9.xyz/">Blog</a>&nbsp;•&nbsp;
+<a href="https://tea9.xyz/">Blog</a>&nbsp;•&nbsp;
 <a href="https://t.me/tea99">Telegram</a>&nbsp;•&nbsp;
 <a href="https://twitter.com/tr1tea">Twitter</a>
 </p>
