@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<a href="https://tea9.xyz/">Blog</a>&nbsp;•&nbsp;
+<a href="https://tea9.github.io/">Blog</a>&nbsp;•&nbsp;
 <a href="https://t.me/tea99">Telegram</a>&nbsp;•&nbsp;
 <a href="https://twitter.com/tr1tea">Twitter</a>
 </p>
@@ -57,17 +57,18 @@ Here are some ideas to get you started:
 Only the latest **3** articles are displayed here.
 
 <!--START_SECTION:posts-->
-* [android-drozer](https://tea9.xyz/post/525637870.html)
-* [android app 抓包](https://tea9.xyz/post/2081828674.html)
-* [frida_android](https://tea9.xyz/post/1380470019.html)
+* [android-drozer](https://tea9.github.io/post/525637870.html)
+* [android app 抓包](https://tea9.github.io/post/2081828674.html)
+* [frida_android](https://tea9.github.io/post/1380470019.html)
 <!--END_SECTION:posts-->
 
-**See more on [tea9.xyz](https://tea9.xyz/).**
+**See more on [tea9 blog](https://tea9.github.io/).**
 
 ## About 
-* blog:https://tea9.xyz
+* blog:https://tea9.github.io
 * wechat (base64:dDFuYXRp
 * email:tea90@qq.com
-* 知识星球：https://t.zsxq.com/7YJEEqj
-* twitter：https://twitter.com/tr1tea
+* 知识星球:https://t.zsxq.com/7YJEEqj
+* twitter:https://twitter.com/tr1tea
+* telegram:https://t.me/tea99
 
