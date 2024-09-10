@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<a href="https://tea9.github.io/">Blog</a>&nbsp;•&nbsp;
+<a href="https://github.com/tea9/">Github</a>&nbsp;•&nbsp;
 <a href="https://t.me/tea99">Telegram</a>&nbsp;•&nbsp;
+<a href="https://tea9.github.io/">Blog</a>&nbsp;•&nbsp;
 <a href="https://twitter.com/tr1tea">Twitter</a>
 </p>
 
 
-<h3 align="center">👋 Hello! I'm Tea.</h3>
+<h3 align="center">👋 Hello! I'm Tea9.</h3>
 
 ### 😆 主页浏览量
 
