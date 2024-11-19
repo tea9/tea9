@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 
 
 <p align="center">
+ 
 <a href="https://github.com/tea9/">Github</a>&nbsp;•&nbsp;
-<a href="https://tea9.github.io/">Blog</a>&nbsp;•&nbsp;
 <a href="https://hackerone.com/tr1tea">Hackerone</a>&nbsp;•&nbsp;
+<a href="https://tea9.github.io/">Blog</a>&nbsp;•&nbsp;
 <a href="https://twitter.com/tr1tea">Twitter</a>&nbsp;•&nbsp;
 <a href="https://t.me/tea99">Telegram</a>
 </p>
