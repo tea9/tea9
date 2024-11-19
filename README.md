@@ -31,8 +31,11 @@ Here are some ideas to get you started:
 ### 😆 主页浏览量
 
 <p align="center">
+ 
 ![](https://count.getloli.com/get/@tea9.github.readme)
+
 </p>
+
 
 ```
  ▄         ▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄            ▄            ▄▄▄▄▄▄▄▄▄▄▄  ▄ 
