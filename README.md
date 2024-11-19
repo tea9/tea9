@@ -74,6 +74,6 @@ Only the latest **3** articles are displayed here.
 * email:tea90@qq.com
 * 知识星球:https://t.zsxq.com/7YJEEqj
 * twitter:https://twitter.com/tr1tea
-* telegram:https://t.me/tea99
+* telegram:@tea99
 * hackerone:https://hackerone.com/tr1tea
 
